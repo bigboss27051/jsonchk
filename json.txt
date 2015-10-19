@@ -1,51 +1,51 @@
-{
-   "auth":{
+{  
+   "auth":{  
       "password":"@dm1na2g",
       "username":"admin@anywheretogo.com"
    },
-   "policy":{
-      "car":{
-         "brand":{
-            "id":"1"
+   "policy":{  
+      "car":{  
+         "brand":{  
+            "id":"BEN"
          },
-         "chassisNo":"C1234567890",
-         "engineNo":"E1234567890",
-         "licenseNo":"9¡¤ 9535",
-         "mile":"10000 ¡Á.",
-         "model":{
-            "id":"1"
+         "chassisNo":"",
+         "engineNo":"",
+         "licenseNo":"342 ",
+         "mile":"",
+         "model":{  
+            "id":"12"
          },
-         "owner":{
-            "firstName":"Kittinan",
-            "lastName":"Anuphan",
-            "mobile":"0811234567"
+         "owner":{  
+            "firstName":"ta",
+            "lastName":"ba",
+            "mobile":"0980"
          },
-         "province":{
-            "id":"1"
+         "province":{  
+            "id":"13"
          },
-         "type":{
-            "id":"1"
+         "type":{  
+            "id":"11"
          },
          "year":"1900",
-         "carColor":"red"
+         "carColor":""
       },
-      "insurance":{
+      "insurance":{  
+         "id":"12"
+      },
+      "mile":"",
+      "voluntaryNo":"",
+      "reference1":"",
+      "reference2":"",
+      "policyNote":"",
+      "location":{  
+         "latitude":"",
+         "longitude":""
+      },
+      "appointDateTime":"2015-10-14 01:05:00",
+      "appointAddress":"Ó¾ä¾ä´Ë¡Ë»á",
+      "surveyor":{  
          "id":"1"
       },
-      "mile":"10000 ¡Á.",
-      "voluntaryNo":"VXXXXXXXXX",
-      "reference1":"ref111",
-      "reference2":"reg222",
-      "policyNote":"rem12345",
-      "location":{
-        "latitude":"13.756331",
-        "longitude":"100.501765"
-      },
-      "appointDateTime":"2015-10-14 09:28:52",
-      "appointAddress":"Address Soi 1 JJ",
-      "surveyor":{
-         "id":"1"                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-      },
-      "assignFlag":"1"
+      "assignFlag":true
    }
 }
